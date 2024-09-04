@@ -1,7 +1,7 @@
 
 # Video Game Rating Predictor
 
-This program was made to help a fictional game development studio to maximize the customer satisfaction of their next game, by creating a video game rating predictor, that could help the studio make a better decision. The model got a 0.21 r2-score, which taught me the importance of feature engineering.
+This project was made to help a fictional game development studio to maximize the customer satisfaction of their next game, by creating a video game rating predictor, that could help the studio make a better decision. The model got a 0.21 r2-score, which taught me the importance of feature engineering.
 
 
 ## Acknowledgements
